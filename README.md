@@ -2,11 +2,11 @@
 
 After dividing the VGG16 model by each layer, interence is performed separately on the edge server and client.
 
-edge_server_main.py
+edge_server_main.py: code for inference on an edge server
 
-client_vgg_main_test.py 
+client_vgg_main_test.py: code for inference on an edge device 
 
-communication.py
+communication.py: code for communication between the edge server and the edge device
 
 Golden_Retriever_Hund_Dog.jpg
 
