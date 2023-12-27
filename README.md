@@ -6,7 +6,7 @@ edge_server_main.py
 
 client_vgg_main_test.py 
 
-
+communication.py
 
 =how to run=
 
