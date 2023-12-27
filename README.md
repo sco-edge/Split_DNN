@@ -12,3 +12,4 @@ After dividing the VGG16 model by each layer, interence is performed separately 
 =How to run=
 - python3 edge_server_main.py
 - python3 client_vgg_main.py
+
