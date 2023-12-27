@@ -9,9 +9,7 @@ After dividing the VGG16 model by each layer, interence is performed separately 
 - imagenet_class_index.json: the indexes of imagenet
 - models/vgg16.py: pretrained VGG16 model
 
-
 =how to run=
-
-python3 edge_server_main.py
+- python3 edge_server_main.py
 
 python3 client_vgg_main.py
