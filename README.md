@@ -14,4 +14,3 @@ After dividing the VGG16 model by each layer, interence is performed separately 
 - The default IP address is the local address.
 - python3 edge_server_main.py
 - python3 client_vgg_main.py
-
