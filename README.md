@@ -12,7 +12,7 @@ Golden_Retriever_Hund_Dog.jpg
 
 imagenet_class_index.json
 
-models/vgg16.py
+models/vgg16.py: pretrained VGG16 model
 
 
 =how to run=
