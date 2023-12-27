@@ -10,7 +10,7 @@ After dividing the VGG16 model by each layer, interence is performed separately 
 - models/vgg16.py: pretrained VGG16 model
 
 =How to run=
-Write the IP address of the edge server in the clientCommunication() function in the client_vgg_main.py.
+- Write the IP address of the edge server in the clientCommunication() function in the client_vgg_main.py.
 - python3 edge_server_main.py
 - python3 client_vgg_main.py
 
