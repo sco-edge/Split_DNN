@@ -8,6 +8,10 @@ client_vgg_main_test.py
 
 communication.py
 
+Golden_Retriever_Hund_Dog.jpg
+
+
+
 =how to run=
 
 python3 edge_server_main.py
