@@ -10,6 +10,7 @@ communication.py
 
 Golden_Retriever_Hund_Dog.jpg
 
+imagenet_class_index.json
 
 
 =how to run=
