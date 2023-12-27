@@ -1,5 +1,6 @@
 # Split_DNN
 
+After dividing the VGG16 model by each layer, interence is performed separately on the edge server and client.
 
 =how to run=
 
